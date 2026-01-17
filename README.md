@@ -1,2 +1,5 @@
 # Boru
-Börü from varietyshopware sadece versiyon kontrolcüsü 
+Börü from varietyshopware 
+versiyon kontrolcüsü 
+Blacklist kontrolcüsü
+Whitelist kontrolcüsü
