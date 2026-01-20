@@ -2,13 +2,16 @@
    {
     "name": "examplename",
     "id": "exampleid"
+   "expire": "YYYY-AA-GG" 
   },
   {
     "name": "BoruFan",
     "id": "497d1d61-5307-430f-a026-ccba0be3a8d2"
+     "expire": "2026-01-25"
   },
   {
     "name": "cigkoftexl",
     "id": "5018d452-e558-4bfa-9de8-e99a8648c2ee"
+     "expire": "2026-01-25"
   }
 ]
