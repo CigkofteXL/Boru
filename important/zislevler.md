@@ -6,4 +6,4 @@
 
 -Aga bu whitelistmonthlyde aylık adamlar ve kalan süreleri falan cartcurt daha yapmadım bunuda neyse 
 
-AGABUAGABUAGABUAGABUAGABUAGABUAGABU
+AGABUAGABUAGABUAGABUAGABUAGABUAGABUDENEME
