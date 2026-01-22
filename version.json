@@ -1,10 +1,10 @@
 {
   "Börücük":{
-  "version": "1.2.0",
-  "message": "v1.2.0 Börünün Update Uyarıcısı eklendi deneme"
+  "version": "1.3.0",
+  "message": "v1.3.0 Autoreplaydaki hatalar düzeltildi Auto joinde yasaklı kelimeler eklendi (oda ismi)"
  },
  "Börü": {
- "version": "1.2.0",
-  "message": "v1.2.0 Börünün Update Uyarıcısı eklendi deneme"
+ "version": "1.3.0",
+  "message": "v1.3.0 Auto create deki Autoreplaydaki hatalar düzeltildi Auto joinde yasaklı kelimeler eklendi (oda ismi)"
  }
 }
