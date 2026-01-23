@@ -1,10 +1,10 @@
 {
   "Börücük":{
-  "version": "1.3.0",
-  "message": "v1.3.0 Autoreplaydaki hatalar düzeltildi Auto joinde yasaklı kelimeler eklendi (oda ismi) update reminderdeki hata düzeltildi"
+  "version": "1.4.0",
+  "message": "v1.4.0 Translator ve radar özelliği eklendi Bir börü kullanıcıysa karşılaşınca anlarsınız"
  },
  "Börü": {
- "version": "1.3.0",
-  "message": "v1.3.0 Auto create deki Autoreplaydaki hatalar düzeltildi Auto joinde yasaklı kelimeler eklendi (oda ismi) update reminderdeki hata düzeltildi"
+ "version": "1.4.0",
+  "message": "v1.4.0 Translator ve radar özelliği eklendi Bir börü kullanıcıysa karşılaşınca anlarsınız"
  }
 }
