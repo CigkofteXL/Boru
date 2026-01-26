@@ -28,5 +28,15 @@
     "name": "yxg",
     "id": "457df6b3-5a11-450c-bdcb-852688414359",
      "expire": "2026-04-26"
+  },
+   {
+    "name": "talent",
+    "id": "34237913-8b81-4cff-93ca-5d89f2a3971a",
+     "expire": "2026-04-27"
+  },
+   {
+    "name": "stercore",
+    "id": "7f40cfd0-f09f-46aa-b5f1-a6d8571df43e",
+     "expire": "2026-04-27"
   }
 ]
