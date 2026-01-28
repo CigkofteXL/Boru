@@ -1,10 +1,10 @@
 {
   "Börücük":{
-  "version": "1.4.0",
-  "message": "v1.4.0 Translator ve radar özelliği eklendi Bir börü kullanıcıysa karşılaşınca anlarsınız"
+  "version": "1.5.0",
+  "message": "v1.5.0 Yenilikler : radar özelliği özelleştirme eklendi , Tıklama altyapısı değiştirildi(Auto Join) , Yeni oynama mekanikleri(Auto play için) , Harf Duyarlılığı(Auto Join) , kelime arama(Auto Join virgül kullanacaksınız kelimeden sonra) , Ayarlar için kısayollar ctrl+alt+özellikbaşharfi Hata düzeltmeleri : Yeni tıklama sistemine geçildiğinden Auto Join hatası düzeltildi , Ayarlara tıklayınca geri atmıyor artık , Input hatası düzeltildi artık oyundayken filtreleri kullanabilceksiniz , Menü açma fixlendi artık aynı anda 3-4 menü açıkta durmuyor"
  },
  "Börü": {
- "version": "1.4.0",
-  "message": "v1.4.0 Translator ve radar özelliği eklendi Bir börü kullanıcıysa karşılaşınca anlarsınız"
+ "version": "1.5.0",
+  "message": "v1.5.0 Yenilikler : radar özelliği özelleştirme eklendi , Tıklama altyapısı değiştirildi(Auto Join) , Yeni oynama mekanikleri(Auto play ve Auto Create için) , Harf Duyarlılığı(Auto Join) , kelime arama(Auto Join virgül kullanacaksınız kelimeden sonra) , Ayarlar için kısayollar ctrl+alt+özellikbaşharfi(Create için K ve panic modu f9 istisna) Hata düzeltmeleri : Yeni tıklama sistemine geçildiğinden Auto Join ve Auto Create hatası düzeltildi , Ayarlara tıklayınca geri atmıyor artık , Input hatası düzeltildi artık oyundayken filtreleri kullanabilceksiniz , Menü açma fixlendi artık aynı anda 3-4 menü açıkta durmuyor"
  }
 }
