@@ -43,5 +43,15 @@
     "name": "sepya",
     "id": "44d31db9-2ca9-4807-83e0-7d3cb653b0e9",
     "expire": "2026-04-31"
+   },
+   {
+    "name": "adige",
+    "id": "16416c65-c278-42c5-a27f-8731fa80becc",
+    "expire": "2026-04-31"
+   },
+   {
+    "name": "lCegid",
+    "id": "5d96b276-6b1b-4bc1-b163-f9fbb73ddb07",
+    "expire": "2026-04-31"
    }
 ]
