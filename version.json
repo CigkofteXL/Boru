@@ -1,10 +1,10 @@
 {
   "Börücük":{
-  "version": "1.6.0",
-  "message": "v1.6.0 Alfa Yenilikler : Yeni Tema stili, Yeni Börüssenger (Börü Messenger) bir nevi artık börüde küçük bir discord var Detaylı Anlatsam buraya sığmaz :)"
+  "version": "1.7.0",
+  "message": "v1.7.0 Yenilikler : Oynayışa çok fazla etki eden birsürü bug düzeltildi(çok önemli) kısayollar düzenlendi(auto replay artık ctrl alt y)"
  },
  "Börü": {
- "version": "1.6.0",
-  "message": "v1.6.0 Alfa Yenilikler :  Yeni Tema stili, Yeni Börüssenger (Börü Messenger) bir nevi artık börüde küçük bir discord var Detaylı Anlatsam buraya sığmaz :)"
+ "version": "1.7.0",
+  "message": "v1.7.0 Yenilikler :  Oynayışa çok fazla etki eden birsürü bug düzeltildi(çok önemli) kısayollar düzenlendi(auto replay artık ctrl alt y) Akıllı AFK anlayıcı"
  }
 }
