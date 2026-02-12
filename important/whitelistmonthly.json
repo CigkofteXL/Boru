@@ -143,5 +143,10 @@
     "name": "NAMUSBEKCISI",
     "id": "b505c82a-c0a5-41b7-84bd-9aed7481ca3d",
     "expire": "2026-05-11"
+ },
+ {
+    "name": "Kranos",
+    "id": "a757b5eb-fc7c-422b-af5f-acb411dc1446",
+    "expire": "2026-10-12"
  }
 ]
