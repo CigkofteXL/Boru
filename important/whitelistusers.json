@@ -1,5 +1,5 @@
 [
-   {
+  {
     "name": "examplename",
     "id": "exampleid"
   },
@@ -11,23 +11,23 @@
     "name": "cigkoftexl",
     "id": "5018d452-e558-4bfa-9de8-e99a8648c2ee"
   },
-   {
+  {
     "name": "Nostaljik",
     "id": "3db63588-6aea-44d3-a626-d6a64f00e9fa"
   },
-   {
+  {
     "name": "Sacrifice",
     "id": "60a187fc-07e6-4f41-ae2e-b0c40b137600"
   },
- {
+  {
     "name": "Change",
     "id": "0e2a7544-2faa-4361-90fd-d295533fa468"
   },
- {
+  {
     "name": "demigod",
     "id": "156e1363-a3c1-492f-8712-dd8f7163682f"
   },
-   {
+  {
     "name": "ceaser",
     "id": "67a86781-532b-4e49-ae89-5dfda52e4c52"
   },
@@ -35,89 +35,92 @@
     "name": "pacifist",
     "id": "70575407-b84c-49cb-b3de-de2ad5677855"
   },
-   {
+  {
     "name": "aisyl",
     "id": "f78a80a8-5b0e-4152-8c4b-647f1019d7c7"
   },
- {
+  {
     "name": "tengrizm",
     "id": "f501ec6a-dd38-4bc6-bf35-9c7c9d5256d0"
- },
- {
+  },
+  {
     "name": "mabel",
     "id": "iptal7f095390-2597-4e70-8c3d-94ec2a266b4d"
- },
- {
+  },
+  {
     "name": "EtiHosbes",
     "id": "22bd79fa-7623-464a-b6e4-2941c7828573"
- },
- {
+  },
+  {
     "name": "VisneliHosbes",
     "id": "0dcd2a9a-fb35-4371-a12d-4fff9f4dae41"
- },
- {
+  },
+  {
     "name": "militarist",
     "id": "d419b306-de1d-4996-bc13-a436c9df73e6"
- },
- {
+  },
+  {
     "name": "aybayt",
     "id": "d37e671b-9cdc-4d3f-b41d-238207eddf14"
- },
-   {
+  },
+  {
     "name": "enso",
     "id": "0df2ccfc-e4d2-430f-b9c3-223b49b241ef"
- },
- {
+  },
+  {
     "name": "Tsukihana",
     "id": "578cb454-d736-4171-9d31-550efa213c74"
- },
-   {
+  },
+  {
     "name": "seytan",
     "id": "ee399de3-9bfb-4b4b-a2c4-ed548e9ad575"
- },
- {
+  },
+  {
     "name": "action",
     "id": "c38f6563-1a8b-4268-ae01-3812bf2db882"
- },
-{
+  },
+  {
     "name": "vwes",
     "id": "82dd8545-de37-4902-8658-2492e7d76aa5"
- },
-{
+  },
+  {
     "name": "mrpenguin",
     "id": "a568f4a1-4df8-4d70-b837-2688c7bf798a"
- },
- {
+  },
+  {
     "name": "JUX",
     "id": "e7cf04b3-0977-4e2f-a097-c1760dc878cf"
- },
-   {
+  },
+  {
     "name": "sepya",
     "id": "44d31db9-2ca9-4807-83e0-7d3cb653b0e9"
- },
-   {
+  },
+  {
     "name": "malade",
     "id": "9dc1e262-1ae7-422f-b610-12e70db5aa60"
- },
-   {
+  },
+  {
     "name": "Portugal",
     "id": "13b28cde-d1c4-456e-b36a-295d0dce4997"
- },
- {
-  "name": "tomris",
-  "id": "08ec6254-3548-492b-9422-3120609f8fc9"
- },
- {
-  "name": "TrabzonFake",
-  "id": "0d6d5c3f-8beb-4c76-83fb-b3673d9a2bff"
- },
- {
-  "name": "ProBably",
-  "id": "e7aa329a-9e7f-47ce-a36c-fe178b99abdf"
- },
- {
-  "name": "FearBorne",
-  "id": "1343a911-16b2-4dcc-bd9a-89d141327f9d"
- }
-
+  },
+  {
+    "name": "tomris",
+    "id": "08ec6254-3548-492b-9422-3120609f8fc9"
+  },
+  {
+    "name": "TrabzonFake",
+    "id": "0d6d5c3f-8beb-4c76-83fb-b3673d9a2bff"
+  },
+  {
+    "name": "ProBably",
+    "id": "e7aa329a-9e7f-47ce-a36c-fe178b99abdf"
+  },
+  {
+    "name": "FearBorne",
+    "id": "1343a911-16b2-4dcc-bd9a-89d141327f9d"
+  },
+  {
+    "name": "deneme",
+    "id": "9d9dfc1e-bb7b-45ed-9a99-535cce6bc4e1"
+  }
 ]
