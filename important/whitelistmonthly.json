@@ -173,5 +173,10 @@
     "name": "Varietyshop",
     "id": "c53ed278-8122-4d29-817b-3d3311af6ac0",
     "expire": "2026-05-17"
+  },
+  {
+    "name": "dextm",
+    "id": "b2c0969e-3df5-4df2-a10d-89bf9e1bf6ac",
+    "expire": "2026-05-17"
   }
 ]
