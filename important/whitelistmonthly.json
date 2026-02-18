@@ -178,5 +178,10 @@
     "name": "dextm",
     "id": "b2c0969e-3df5-4df2-a10d-89bf9e1bf6ac",
     "expire": "2026-02-24"
+  },
+  {
+    "name": "JUX",
+    "id": "e7cf04b3-0977-4e2f-a097-c1760dc878cf",
+    "expire": "2026-05-18"
   }
 ]
