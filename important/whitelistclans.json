@@ -34,5 +34,11 @@
     "name": "Varietyshop",
     "description": "B\u00F6r\u00FCFan Kay\u0131tl\u0131 Klan\n",
     "language": "TR"
+  },
+  {
+    "id": "2bac37e1-5498-4939-81f4-17e62d36fbcd",
+    "name": "Konyal\u0131 Spas(t)ikler",
+    "description": "Konyal\u0131 Spastikler klan\u0131 g\u00F6revler yap\u0131l\u0131r ba\u011F\u0131\u015Flar yap\u0131l\u0131r yazacak bir\u015Feyim kalmad\u0131",
+    "language": "TR"
   }
 ]
