@@ -243,5 +243,10 @@
     "name": "elys",
     "id": "c43e825f-aba2-4833-b713-8702d86b7c4a",
     "expire": "2026-04-26"
+  },
+  {
+    "name": "Panch",
+    "id": "d79efacb-62b9-444f-89cd-a94f4b1ae6ee",
+    "expire": "2026-06-26"
   }
 ]
