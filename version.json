@@ -1,10 +1,10 @@
 {
-  "Börücük":{
-  "version": "1.8.0",
-  "message": "v1.8.0 Yenilikler :  Oy izleme yani oy verenle oy verme, Join bugı,börü kontrol merkezini taşıma,Kısayolları ayarlama,Börü konsol,seçilen sıra numarasına otomatik geçme,Öneri/Bug bildirme"
- },
- "Börü": {
- "version": "1.8.0",
-  "message": "v1.8.0 Yenilikler :  Oy izleme yani oy verenle oy verme, Join bugı,Create deki bug,börü kontrol merkezini taşıma,Kısayolları ayarlama,Börü konsol,özel şifreli lobilere girme,seçilen sıra numarasına otomatik geçme,Öneri/Bug bildirme"
- }
+  "Börücük": {
+    "version": "1.9.0",
+    "message": "v1.9.0 Yenilikler: Börüssenger Evrimi (SS Yapıştırma, Video Gönderimi, Sohbet Silme/Taşıma/Büyütme), Gelişmiş Fotoğraf Görüntüleyici, Issız Oda Anlayıcı (Oto-Lobi Çıkış), Mobil Kapatma Tuşu, Cin Çarpma ve Senkronizasyon Bug Fixleri."
+  },
+  "Börü": {
+    "version": "1.9.0",
+    "message": "v1.9.0 Yenilikler: Börüssenger Evrimi (SS Yapıştırma, Video Gönderimi, Sohbet Silme/Taşıma/Büyütme), Gelişmiş Fotoğraf Görüntüleyici, Issız Oda Anlayıcı (Oto-Lobi Çıkış), Mobil Kapatma Tuşu, Cin Çarpma ve Senkronizasyon Bug Fixleri /bigbio Komutu (Sınırsız Biyografi), /msg Komutu (Hızlı Mesaj), Bug Bildir/Öneri Sistemi Fixleri Stabilite Güncellemeleri."
+  }
 }
