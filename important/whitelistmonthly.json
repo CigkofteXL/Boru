@@ -403,5 +403,10 @@
     "name": "cannibot6",
     "id": "accd8e25-bcda-4a11-b1bb-da152dac23c8",
     "expire": "2026-05-16"
+  },
+  {
+    "name": "cannibot7",
+    "id": "50b47f38-3c09-472a-a72a-9266e7daba98",
+    "expire": "2026-05-16"
   }
 ]
