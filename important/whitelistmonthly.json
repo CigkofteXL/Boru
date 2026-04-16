@@ -368,5 +368,40 @@
     "name": "LunaSeren",
     "id": "cd5275b6-7b5a-4100-bb26-8f78b2891dfe",
     "expire": "2026-05-13"
+  },
+  {
+    "name": "kardeskes",
+    "id": "e471df82-4944-4a14-9dd7-61fd19f36474",
+    "expire": "2026-05-16"
+  },
+  {
+    "name": "CannibaI",
+    "id": "09cd7eca-6fb7-4f5c-8c13-66cb83387731",
+    "expire": "2026-05-16"
+  },
+  {
+    "name": "cannibot2",
+    "id": "57a75e3e-4895-4ee1-8b41-2ad8660c70d3",
+    "expire": "2026-05-16"
+  },
+  {
+    "name": "cannibot3",
+    "id": "8ae0c0b9-c148-4cd4-8d7f-9545af7989e4",
+    "expire": "2026-05-16"
+  },
+  {
+    "name": "cannibot4",
+    "id": "fc18cd78-1142-4c02-ae14-ffc399e24e2c",
+    "expire": "2026-05-16"
+  },
+  {
+    "name": "cannibot5",
+    "id": "19b9a323-833a-4824-b8db-ffcf559ab436",
+    "expire": "2026-05-16"
+  },
+  {
+    "name": "cannibot6",
+    "id": "accd8e25-bcda-4a11-b1bb-da152dac23c8",
+    "expire": "2026-05-16"
   }
 ]
