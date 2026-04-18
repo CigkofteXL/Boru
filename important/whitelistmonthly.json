@@ -418,5 +418,10 @@
     "name": "Canute",
     "id": "c8dc76a9-723c-4048-b37d-705d5e1ddca1",
     "expire": "2026-05-18"
+  },
+  {
+    "name": "seytan",
+    "id": "ee399de3-9bfb-4b4b-a2c4-ed548e9ad575",
+    "expire": "2026-05-18"
   }
 ]
